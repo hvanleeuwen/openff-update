@@ -1,4 +1,4 @@
-baseURL = "https://openforcefield.org/"
+baseURL = "https://hvanleeuwen.github.io/openff-update"
 languageCode = "en-us"
 title = "OpenFF"
 theme = "openff"

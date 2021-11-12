@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on OpenFF</title>
-    <link>https://openforcefield.org/software/</link>
+    <link>https://hvanleeuwen.github.io/openff-update/software/</link>
     <description>Recent content in Software on OpenFF</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://openforcefield.org/software/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hvanleeuwen.github.io/openff-update/software/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
